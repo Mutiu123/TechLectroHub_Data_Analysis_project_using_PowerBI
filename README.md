@@ -28,6 +28,7 @@ Calculate the average discount offered in each discount category.
 Display the total count of orders.
 
 ### **7. Detailed Order Insights**
+Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters(Product/Date/Customer ID/Promotion Categories).
 Show detailed metrics for each order, including:
 - Sales
 - Profit
