@@ -61,3 +61,26 @@ The dataset includes the following product categories, which are represented as 
 - Personal Care
 
 These categories are used to analyze and visualize data related to sales, profit, and other metrics in the Power BI dashboard.
+
+
+
+## **Demo Screenshots**
+
+## Top/Bottom 5 Products
+
+![Top/Bottom 5 Products](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo.jpg)
+
+## Sales Analysis
+![Sales Analysis](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo1.jpg)
+
+## Relationship Between Sales, Profit and Quantity Sold
+![Relationship](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo2.jpg)
+
+## Filtered Relationship Between Sales, Profit and Quantity Sold by Date
+![Filtered Relationship](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo3%20filtered%20by%20date.jpg)
+
+## Detailed Order Insights
+![Detailed Order Insights](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo3.jpg)
+
+## Filtered Detailed Order Insights by Date
+![Filtered Detailed Order Insights by Date](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo3%20filtered%20by%20date.jpg)
