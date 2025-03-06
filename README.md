@@ -77,7 +77,7 @@ These categories are used to analyze and visualize data related to sales, profit
 ![Relationship](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo2.jpg)
 
 ## Filtered Relationship Between Sales, Profit and Quantity Sold by Date
-![Filtered Relationship](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo3%20filtered%20by%20date.jpg)
+![Filtered Relationship](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo2%20Filtered%20.jpg)
 
 ## Detailed Order Insights
 ![Detailed Order Insights](https://github.com/Mutiu123/TechLectroHub_Data_Analysis_project_using_PowerBI/blob/main/demo/demo3.jpg)
